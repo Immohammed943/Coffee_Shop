@@ -1,0 +1,10 @@
+/* Reset some default browser styless */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    /* top bar */
+    .top-bar {
+        background-color:#ffa500;
+    }
