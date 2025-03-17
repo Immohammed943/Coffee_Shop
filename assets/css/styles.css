@@ -36,3 +36,8 @@
         font-weight: bold;
         font-size: 1.2rem;
     }
+
+    .signin-Social a{
+        color: #002060;
+        text-decoration: none;
+    }
