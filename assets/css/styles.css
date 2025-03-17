@@ -7,4 +7,32 @@
     /* top bar */
     .top-bar {
         background-color:#ffa500;
+        padding: 0.5rem 3rem;
+        display: flex;
+        justify-content: space-between;
+    }
+    .contact-Location{
+        color: #002060;
+        display: flex;
+        gap: 2rem;
+        font-weight: bold;
+        font-size: 1.2rem;
+    }
+
+
+    .signin-Social{
+        display: flex;
+        justify-content: space-between;
+        gap: 3rem;
+
+    }
+
+
+
+
+    .signin-Social{
+        display: flex;
+        gap: 1.5rem;
+        font-weight: bold;
+        font-size: 1.2rem;
     }
