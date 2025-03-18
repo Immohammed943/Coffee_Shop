@@ -37,11 +37,25 @@
         font-size: 1.2rem;
     }
 
-    .signin-Social a{
+    .login-signup a{
         color: #002060;
         text-decoration: none;
     }
 
-    .signin-Social a:hover{
+    .login-signup a:hover{
         color: #fff;
     }
+ .social-media{
+    display: flex;
+    gap: 1rem;
+ }
+
+.social-medi a{
+        color:#002060;
+        text-decoration: none;
+    
+ }
+
+ .social-media a:hover{
+    color: #fff;
+ }
