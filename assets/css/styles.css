@@ -122,6 +122,42 @@
   height: 80vh;
 }
 
+.hero-content{
+    position: absolute; top:0; left: 0;
+    width: 100%;
+    background-color: rgba(0,0,0,0.4);
+    padding: 2rem;
+    height: 80vh;
+
+}
+
+.hero-content h1{
+    font-size: 4rem;
+    margin-top: 7rem;
+}
+
+.hero-content p{ 
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+.hero-content button{
+    background-color: #ffa500;
+    color: #002060;
+    border:solid 1px #fff;
+    padding: 0.8rem 1.5rem;
+    font-size: 1.5rem;
+    cursor:pointer;
+    border-radius: 0.4rem;
+    transition:background-color 0.3s ease;
+    margin-top:3rem;
+    font-weight: bold;
+}
+
+.hero-content button:hover{
+    background-color: #fff;
+    coloe: #002060;
+}
+
 .footer p{
     font-size: 1.2rem;
     margin: 0;
